@@ -18,7 +18,7 @@
 This project focuses on the automated detection of adverse news related to financial crimes. By processing and analyzing news articles, the system identifies entities and categorizes the content to assist in risk management and compliance efforts.
 
 ## Features
-
+- **Gnews API calls + Webscraping**: Extracting news from gnews API and doing webscraping in an attempt to obtain more information on the articles.
 - **Data Preprocessing**: Cleaning and preparing news data for analysis.
 - **Named Entity Recognition (NER)**: Identifying and extracting relevant entities from text.
 - **Topic Modeling**: Uncovering hidden thematic structures in news articles.
