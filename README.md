@@ -62,9 +62,9 @@ The project includes several Jupyter notebooks demonstrating various components:
 
 - `Data_Loading_Final.ipynb`: Loading and exploring the dataset.
 - `Data_Preprocessing_Final.ipynb`: Data cleaning and preprocessing steps.
-- `NER_final.ipynb`: Performing Named Entity Recognition.
+- `NER_final.ipynb`: Performing Named Entity Recognition and Entity Linking.
 - `Local_DS_Modelling.ipynb`: Building and evaluating classification models.
-- `MetaClassifier_of_LLM_outputs.ipynb`: Combining outputs from multiple models.
+- `MetaClassifier_of_LLM_outputs.ipynb`: Combining outputs from multiple LLMs.
 - `Visualisations.ipynb`: Visualizing data and model results.
 
 To run a notebook:
